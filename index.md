@@ -1,4 +1,5 @@
-# Condiciones del Servicio de Tiago Jr
+layout: default
+title: Condiciones del Servicio de Tiago Jr
 
 Al agregar y utilizar el bot **Tiago Jr** en tu servidor de Discord, aceptas los siguientes términos y condiciones:
 
