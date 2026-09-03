@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Condiciones del Servicio de Tiago Jr
 ---
 
 # Condiciones del Servicio de Tiago Jr
